@@ -32,7 +32,7 @@ This project fulfills the following functional requirements:
 
 
 ## 📁 Project Structure
-
+```
 src/
 ├── components/      # Reusable UI components (Navbar, Footer, etc.)
 ├── pages/           # Main views: Home, ProductDetail, Cart, Checkout
