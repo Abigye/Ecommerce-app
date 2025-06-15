@@ -33,4 +33,12 @@ This project fulfills the following functional requirements:
 
 ## 📁 Project Structure
 
-<pre> ```text src/ ├── components/ # Reusable UI components (Navbar, Footer, etc.) ├── pages/ # Main views: Home, ProductDetail, Cart, Checkout ├── products/ # JSON file with product data ├── types/ # TypeScript interfaces and types ├── utils/ # Utility functions (e.g., image handling) ├── assets/ # Product images └── App.tsx # Route layout and main app structure ``` </pre>
+src/
+├── components/      # Reusable UI components (Navbar, Footer, etc.)
+├── pages/           # Main views: Home, ProductDetail, Cart, Checkout
+├── products/        # JSON file with product data
+├── types/           # TypeScript interfaces and types
+├── utils/           # Utility functions (e.g., image handling)
+├── assets/          # Product images
+└── App.tsx          # Route layout and main app structure
+
